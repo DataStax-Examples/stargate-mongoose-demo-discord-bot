@@ -1,6 +1,6 @@
 # discord-bot
 
-This sample demonstrates using Mongoose to build a sample
+This sample demonstrates using stargate-mongoose to build a sample
 [Discord](https://discord.com) bot.
 
 ![](./img/splash.png)
